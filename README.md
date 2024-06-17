@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex-Velez
-- 👀 I’m interested in games and languages!
+- 👀 I’m interested in games and language design!
 - 🌱 I’m currently learning algorithms and physics programming!
 - 💞️ I’m looking to collaborate on any fun projects!
 - 📫 How to reach me: Github or email -> AlexanderVelez7245@gmail.com
